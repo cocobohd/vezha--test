@@ -79,7 +79,7 @@
 
         <!-- div с информацией справа -->
         <div class="modal--general--preview">
-          <img class="zaglushka" src="../../public/assets/zaglushka.png" alt="zaglushka">
+          <img class="zaglushka" :src="require(`../../public/assets/${viewRef}.png`)" alt="zaglushka">
           <div class="modal--general--container">
             <div class="modal--general--div1">
               <p>Camera</p>
@@ -129,7 +129,7 @@ export default {
     const sizeRef = ref("")
     const codecRef = ref("")
     const textRef = ref("")
-    const viewRef = ref("")
+    const viewRef = ref("zaglushka")
     const modalCheckbox = ref(false)
     const searchInput = ref("")
     const isSortByID = ref(false)

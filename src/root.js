@@ -24,7 +24,7 @@ export default {
             size: "600x450",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka2"
           },
           {
             id: 42,
@@ -35,7 +35,7 @@ export default {
             size: "1280x1024",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka"
           }
         ]
       },
@@ -62,7 +62,7 @@ export default {
             size: "600x450",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka"
           },
           {
             id: 16,
@@ -73,7 +73,7 @@ export default {
             size: "1280x1024",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka2"
           }
         ]
       },
@@ -100,7 +100,7 @@ export default {
             size: "1280x1024",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka2"
           },
           {
             id: 2,
@@ -111,7 +111,7 @@ export default {
             size: "600x450",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka"
           },
           {
             id: 3,
@@ -122,7 +122,7 @@ export default {
             size: "1280x1024",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka2"
           },
           {
             id: 4,
@@ -133,7 +133,7 @@ export default {
             size: "1280x1024",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka"
           }
         ]
       },
@@ -160,7 +160,7 @@ export default {
             size: "600x450",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka"
           },
           {
             id: 56,
@@ -171,7 +171,7 @@ export default {
             size: "600x450",
             codec: "H264",
             text: "pstr",
-            view: "../../public/assets/zaglushka.png"
+            view: "zaglushka2"
           }
         ]
       },
@@ -186,7 +186,7 @@ export default {
         size: "600x450",
         codec: "H264",
         text: "pstr",
-        view: "../../public/assets/zaglushka.png"
+        view: "zaglushka"
       },
       {
         id: 5,
@@ -197,7 +197,7 @@ export default {
         size: "1024x800",
         codec: "H264",
         text: "kklp",
-        view: "../../public/assets/zaglushka.png"
+        view: "zaglushka2"
       },
       {
         id: 6,
@@ -208,7 +208,7 @@ export default {
         size: "1280x1024",
         codec: "H360",
         text: "rtsp",
-        view: "../../public/assets/zaglushka.png"
+        view: "zaglushka"
       },
       {
         id: 24,
@@ -219,7 +219,7 @@ export default {
         size: "500x300",
         codec: "H264",
         text: "rtsp",
-        view: "../../public/assets/zaglushka.png"
+        view: "zaglushka2"
       }
     ]
   }

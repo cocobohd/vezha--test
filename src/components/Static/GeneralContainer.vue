@@ -17,14 +17,14 @@
         </div>
         <div class="main--header--buttons">
           <button @click="() => toggleModal('buttonTrigger')">back</button>
-          <button>next</button>
+          <button @click="() => toggleModal('buttonTrigger')">next</button>
         </div>
       </div>
       <div class="main--staticdiv">
         <div class="main--staticdiv--videostream">
           <div>
             <h1>Video stream</h1>
-            <img src="../../../public/assets/component2.png" alt="component2">
+            <img @click="() => toggleModal('buttonTrigger')" src="../../../public/assets/component2.png" alt="component2">
           </div>
           <select>
             <option value="Static">Not chosen</option>
